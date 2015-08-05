@@ -3,7 +3,7 @@
 	url = https://github.com/PX4/Firmware.git
 [submodule "rotors_simulator"]
 	path = rotors_simulator
-	url = https://github.com/PX4/euroc_simulator.git
+	url = https://github.com/PX4/rotors_simulator.git
 [submodule "mav_comm"]
 	path = mav_comm
 	url = https://github.com/PX4/mav_comm.git
